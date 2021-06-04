@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Learning Objectives
 
-You can use the [editor on GitHub](https://github.com/gtnq/cit281-p1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+After completing this project, you will:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain experience accessing your operating system's command line interface (CLI)
 
-### Markdown
+Gain experience working with CLI commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain experience working with Visual Studio Code (VSCode)
 
-```markdown
-Syntax highlighted code block
+Gain experience writing and executing non-web server Node.js JavaScript code
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Overview
 
-**Bold** and _Italic_ and `Code` text
+Project elements:
 
-[Link](url) and ![Image](src)
-```
+Use the command line interface (CLI) of your operating system to create a number of folders
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+List the folders in a tree-like structure
 
-### Jekyll Themes
+Use the ping command, and practice using the break keyboard sequence
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gtnq/cit281-p1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
